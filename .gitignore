@@ -272,3 +272,7 @@ data/interview-prep/
 /tectonic.exe
 /tectonic.part
 /tectonic.part.exe
+
+# Local: keep everything in reports/ out of git (not just .md)
+reports/*
+!reports/.gitkeep
